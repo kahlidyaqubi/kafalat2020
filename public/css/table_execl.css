@@ -1,0 +1,6 @@
+*, body, table, th, tr, td, tbody {
+    font-family: 'examplefont', sans-serif;
+    text-align: right;
+    color: red;
+
+}
